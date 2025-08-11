@@ -1,4 +1,5 @@
 
+import TeamSection from '@/components/team'
 import HeroSection from '../components/hero-section'
 
 export default function LandingPage() {
@@ -6,6 +7,7 @@ export default function LandingPage() {
     <>
     <div>
       <HeroSection />
+      <TeamSection />
     </div>
     </>
   )
