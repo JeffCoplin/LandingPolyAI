@@ -24,7 +24,7 @@ export default function HeroSection() {
                                         asChild
                                         size="lg"
                                         className="px-5 text-base">
-                                        <Link href="#link">
+                                        <Link href="https://app-poly-ai.vercel.app/register">
                                             <span className="text-nowrap">Empieza ahora</span>
                                         </Link>
                                     </Button>

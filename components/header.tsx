@@ -45,14 +45,14 @@ export const HeroHeader = () => {
                                     asChild
                                     variant="outline"
                                     size="sm">
-                                    <Link href="#">
+                                    <Link href="https://app-poly-ai.vercel.app/login">
                                         <span>Iniciar Sesion</span>
                                     </Link>
                                 </Button>
                                 <Button
                                     asChild
                                     size="sm">
-                                    <Link href="#">
+                                    <Link href="https://app-poly-ai.vercel.app/register">
                                         <span>Registrarse</span>
                                     </Link>
                                 </Button>
