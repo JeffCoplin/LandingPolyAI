@@ -15,6 +15,9 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "PolyAI",
   description: "PolyAI",
+  icons: {
+    icon: "/polylogo.png",
+  },
 };
 
 export default function RootLayout({
